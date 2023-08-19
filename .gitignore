@@ -1,0 +1,29 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Compiled JAR files
+target/
+build/
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Maven
+target/
+!target/*.jar
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+.DS_Store
+spring-boot-starter-logging.log
